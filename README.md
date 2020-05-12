@@ -1,2 +1,3 @@
-# gcp-lab
-Simple static site
+# gcp-lab-1
+GCP Laboratory (Cool Level)
+Sample apache web server
