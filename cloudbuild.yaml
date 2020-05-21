@@ -18,5 +18,3 @@ steps:
     - --platform
     - managed
     - --allow-unauthenticated
-  env:
-    - 'PORT=80'
